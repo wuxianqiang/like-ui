@@ -1,0 +1,5 @@
+{
+  "math": "./src/assets/js/math.js",
+  "config": "./src/assets/js/config.js",
+  "mixin": "./src/assets/js/mixin.js"
+}
