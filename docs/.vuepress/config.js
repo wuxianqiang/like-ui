@@ -2,6 +2,7 @@ const path = require('path')
 const fileList = require('../../fileList')
 
 module.exports = {
+  base: '/like-ui/',
   configureWebpack: {
     resolve: {
       alias: {
